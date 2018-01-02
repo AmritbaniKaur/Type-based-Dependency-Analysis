@@ -1,0 +1,27 @@
+
+                                      CodeAnalysis - Version 1.5
+    ==============================================================================================
+     Sat Mar 18 00:38:17 2017
+     Path: "C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\JF's Codes\CodeAnalyzerEx\TypeTable"
+     Args: TypeTable.cpp, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+             TypeTable.cpp    function                               main       7      11       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     4 dirs
+   processed     1 files

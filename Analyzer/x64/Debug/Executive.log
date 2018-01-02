@@ -1,0 +1,17 @@
+﻿  Executive.cpp
+  DepAnal.cpp
+  Utilities.cpp
+  Tokenizer.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  Parser.cpp
+  ConfigureParser.cpp
+  ActionsAndRules.cpp
+  Logger.cpp
+  GrammarHelpers.cpp
+  FileSystem.cpp
+  FileMgr.cpp
+  AbstrSynTree.cpp
+  Generating Code...
+  Executive.vcxproj -> C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\JF's Codes\CodeAnalyzerEx\x64\Debug\CodeAnalyzer.exe
+  Executive.vcxproj -> C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\JF's Codes\CodeAnalyzerEx\x64\Debug\CodeAnalyzer.pdb (Full PDB)

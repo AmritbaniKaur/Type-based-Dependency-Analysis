@@ -1,0 +1,18 @@
+
+                                      CodeAnalysis - Version 1.5
+    ==============================================================================================
+     Sat Mar 18 15:47:22 2017
+     Path: "C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\JF's Codes\CodeAnalyzerEx\Utilities"
+     Args: *.h, *.cpp, /f, /r
+                                                                               
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+              public data: Utilities.h : 57 - class test
+                std :: vector < std :: string > publicVector ; 
+
+
+    searched     4 dirs
+   processed     2 files

@@ -1,0 +1,17 @@
+﻿  Utilities.cpp
+  TypeTable.cpp
+  Tokenizer.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  Parser.cpp
+  ConfigureParser.cpp
+  ActionsAndRules.cpp
+  Logger.cpp
+  GrammarHelpers.cpp
+  FileSystem.cpp
+  FileMgr.cpp
+  DependencyTable.cpp
+  Executive.cpp
+  AbstrSynTree.cpp
+  Generating Code...
+  TestExecutive.vcxproj -> C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\JF's Codes\CodeAnalyzerEx\x64\Debug\TestExecutive.lib

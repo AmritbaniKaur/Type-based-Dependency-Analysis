@@ -1,0 +1,14 @@
+﻿  Parser.cpp
+  ConfigureParser.cpp
+  ActionsAndRules.cpp
+  Utilities.cpp
+  Tokenizer.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  Logger.cpp
+  GrammarHelpers.cpp
+  FileSystem.cpp
+  AbstrSynTree.cpp
+  Generating Code...
+  Parser.vcxproj -> C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\JF's Codes\CodeAnalyzerEx\x64\Debug\Parser.exe
+  Parser.vcxproj -> C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\JF's Codes\CodeAnalyzerEx\x64\Debug\Parser.pdb (Full PDB)

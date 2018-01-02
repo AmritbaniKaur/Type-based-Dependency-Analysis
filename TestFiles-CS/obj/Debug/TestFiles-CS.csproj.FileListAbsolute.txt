@@ -1,0 +1,6 @@
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\JF's Codes\CodeAnalyzerEx\TestFiles-CS\bin\Debug\TestFiles-CS.exe.config
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\JF's Codes\CodeAnalyzerEx\TestFiles-CS\bin\Debug\TestFiles-CS.exe
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\JF's Codes\CodeAnalyzerEx\TestFiles-CS\bin\Debug\TestFiles-CS.pdb
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\JF's Codes\CodeAnalyzerEx\TestFiles-CS\obj\Debug\TestFiles-CS.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\JF's Codes\CodeAnalyzerEx\TestFiles-CS\obj\Debug\TestFiles-CS.exe
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\JF's Codes\CodeAnalyzerEx\TestFiles-CS\obj\Debug\TestFiles-CS.pdb
